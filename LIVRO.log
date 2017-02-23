@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.9.7)  20 OCT 2016 12:52
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  23 FEB 2017 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,7 +336,7 @@ Package verse [2008/07/23] emulated by memoir.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(/home/dosto/texmf/tex/hedraoptions.sty
+(/home/editorial/texmf/tex/hedraoptions.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 165.
 
@@ -360,7 +360,7 @@ Sidefoothsep and sidefootwidth: 7pt and 102pt
 Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
-) (/home/dosto/texmf/tex/hedrastyles.sty
+) (/home/editorial/texmf/tex/hedrastyles.sty
 (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 LaTeX Info: Redefining \MakeTextUppercase on input line 47.
@@ -370,7 +370,7 @@ LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count137
 ))
-(/home/dosto/texmf/tex/tipografia.sty
+(/home/editorial/texmf/tex/tipografia.sty
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 
@@ -442,7 +442,7 @@ LaTeX Font Info:    Try loading font information for U+OrnementsADF on input li
 ne 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/adforn/uornementsadf.fd))
-(/home/dosto/texmf/tex/hifensextras.sty)
+(/home/editorial/texmf/tex/hifensextras.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 
@@ -988,7 +988,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-(/home/dosto/texmf/tex/toc.sty
+(/home/editorial/texmf/tex/toc.sty
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen272
@@ -996,7 +996,7 @@ Package: titletoc 2011/12/15 v1.6 TOC entries
 (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 ))
-(/home/dosto/texmf/tex/hedraextra.sty
+(/home/editorial/texmf/tex/hedraextra.sty
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1110,7 +1110,8 @@ Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
 \c@@sectionNumCenter=\count267
 )
-(/home/dosto/texmf/tex/penalidades.sty) (/home/dosto/texmf/tex/graficos.sty
+(/home/editorial/texmf/tex/penalidades.sty)
+(/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
@@ -1183,7 +1184,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 \imageheight=\skip264
 \imagewidth=\skip265
 
-(/home/dosto/texmf/tex/hedralogo.sty
+(/home/editorial/texmf/tex/hedralogo.sty
 Package: hedralogo 27/12/08 v2.0 Editora Hedra (Mantenedor: JS)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
@@ -1194,9 +1195,11 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: xetex.def on input line 143.
 ))
-(./fichatecnica.sty) (/home/dosto/texmf/tex/aparatos.sty
-(/home/dosto/texmf/tex/listingx.sty) (/home/dosto/texmf/tex/frontlayout.sty))
-(/home/dosto/texmf/tex/fronthedra.tex) (/home/dosto/texmf/tex/tabelas.sty
+(./fichatecnica.sty) (/home/editorial/texmf/tex/aparatos.sty
+(/home/editorial/texmf/tex/listingx.sty)
+(/home/editorial/texmf/tex/frontlayout.sty))
+(/home/editorial/texmf/tex/fronthedra.tex)
+(/home/editorial/texmf/tex/tabelas.sty
 (/usr/share/texlive/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \c@tracingst=\count270
@@ -1299,8 +1302,9 @@ e .
 \@CToldrule=\dimen321
 \CT@t=\box55
 \@CTcurftwidth=\dimen322
-)) (/home/dosto/texmf/tex/versos.sty) (/home/dosto/texmf/tex/commands.sty)
-(./gitrevisioninfo.sty) (./LIVRO.aux (./INPUTS.aux))
+)) (/home/editorial/texmf/tex/versos.sty)
+(/home/editorial/texmf/tex/commands.sty) (./gitrevisioninfo.sty) (./LIVRO.aux
+(./INPUTS.aux))
 \openout1 = `LIVRO.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1317,8 +1321,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 22.
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 22.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 22.
@@ -1464,7 +1467,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(/home/dosto/texmf/tex/frontconselho.tex)
+(/home/editorial/texmf/tex/frontconselho.tex)
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -1474,19 +1477,10 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-File: ../logopac.png Graphic file (type QTm)
- <use  "../logopac.png" >
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 22.
+ [3] (./PRETAS.tex) [4
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-) [3]
-(./PRETAS.tex) [4
-
-] (./LIVRO.toc
+]
+(./LIVRO.toc
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
@@ -1728,11 +1722,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 25740 strings out of 493638
- 466360 string characters out of 6146797
- 626180 words of memory out of 5000000
- 28610 multiletter control sequences out of 15000+600000
- 17783 words of font info for 103 fonts, out of 8000000 for 9000
+ 25637 strings out of 493638
+ 464733 string characters out of 6146796
+ 626179 words of memory out of 5000000
+ 28515 multiletter control sequences out of 15000+600000
+ 16769 words of font info for 101 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
  63i,12n,78p,10384b,493s stack positions out of 5000i,500n,10000p,200000b,80000s
 
