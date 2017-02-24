@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  23 FEB 2017 15:44
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.3)  24 FEB 2017 14:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1616,7 +1616,12 @@ Overfull \vbox (5.38834pt too high) has occurred while \output is active []
 Overfull \vbox (11.225pt too high) has occurred while \output is active []
 
 
-[27]) (./HORONAM683.tex [28] [29
+[27]) (./HORONAM683.tex
+Underfull \hbox (badness 6592) in paragraph at lines 71--1
+[]\EU1/LinuxLibertineO(0)/m/n/12.5 Nesses xaponos moravam poucas pessoas.
+ []
+
+[28] [29
 
 ] [30]
 Underfull \hbox (badness 2443) in paragraph at lines 57--66
@@ -1724,7 +1729,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  25637 strings out of 493638
  464733 string characters out of 6146796
- 626179 words of memory out of 5000000
+ 625179 words of memory out of 5000000
  28515 multiletter control sequences out of 15000+600000
  16769 words of font info for 101 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191

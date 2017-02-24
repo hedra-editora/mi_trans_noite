@@ -7,6 +7,43 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "HORONAMEOTATUOSURGIMENTODOCIPOEDAEMBIRA693.tex",
+			"settings":
+			{
+				"buffer_size": 9567,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "COMOFOIFEITOESTELIVRO721.tex",
+			"settings":
+			{
+				"buffer_size": 3195,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 64 files for \"quer se aproximar\"\n\n/home/editorial/Área de Trabalho/mi_trans_noite/HORONAMEOTATUOSURGIMENTODOCIPOEDAEMBIRA693.tex:\n   42  outro som com a boca, mas Tatu nem olhava, ele cortava sem parar, com as\n   43  pernas abertas. Naquela época, ninguém chamava o outro de ``sogro'',\n   44: Horonamɨ nos ensinou então a chamar de ``sogro'':\\footnote{  Sogro, ou tio. O uso desse termo indica uma relação de respeito. Horonamɨ quer se aproximar de Tatu. Trata\"-se também de uma observação irônica, pois as mulheres ainda não existem no período em que acontecem as histórias de Horonamɨ, e portanto as relações de aliança (sogro/cunhado) não são uma possibilidade.}\n   45  \n   46  --- Hɨ̃ɨɨ, meu sogro! --- disse. --- Meu sogro! --- disse Horonamɨ com\n\n1 match in 1 file\n\n\nSearching 64 files for \"Ele desafiou\"\n\n/home/editorial/Área de Trabalho/mi_trans_noite/HORONAMEOTATUOSURGIMENTODOCIPOEDAEMBIRA693.tex:\n   60  Sou o Tatu! --- disse ele. Dizendo isso, ele perguntou: \n   61  \n   62: --- Qual é o seu nome? --- Ele desafiou Horonamɨ a dizer seu nome. \n   63  \n   64  --- Ɨ̃ɨ, eu sou Horonamɨ. \n\n1 match in 1 file\n\n\nSearching 64 files for \"lá vem mel\"\n\n0 matches\n\nSearching 64 files for \"Lá tem mel\"\n\n/home/editorial/Área de Trabalho/mi_trans_noite/HORONAMEOTATUOSURGIMENTODOCIPOEDAEMBIRA693.tex:\n   83  de \\emph{tima}. \n   84  \n   85: --- Lá tem mel \\emph{tima}! --- Ao vê\"-lo, eu direi assim. \n   86  \n   87  Foi o Tatu que ensinou o nome. Horonamɨ chegou mais perto daquele que\n\n1 match in 1 file\n\n\nSearching 64 files for \"ela fez ao cair\"\n\n/home/editorial/Área de Trabalho/mi_trans_noite/AANTAQUEANDAVANASARVORES699.tex:\n    9  nos galhos baixos, vindo em sua direção. \n   10  \n   11: Hukru! Hukru! Prãããõ!ela fez ao cair. \n   12  \n   13  Ela andava nas árvores como os cuatás. Afinal, ele encontrou a anta\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 1842,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "AANTAQUEANDAVANASARVORES699.tex",
+			"settings":
+			{
+				"buffer_size": 2587,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -87,10 +124,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 92.0,
-		"last_filter": "git qui",
+		"height": 132.0,
+		"last_filter": "git push",
 		"selected_items":
 		[
+			[
+				"git push",
+				"Git: Push"
+			],
 			[
 				"git qui",
 				"Git: Quick Commit (repo)"
@@ -284,6 +325,10 @@
 	],
 	"file_history":
 	[
+		"/home/editorial/Área de Trabalho/mi_trans_noite/COMOFOIFEITOESTELIVRO721.tex",
+		"/home/editorial/Área de Trabalho/mi_trans_noite/OSURGIMENTODOTABACO690.tex",
+		"/home/editorial/Área de Trabalho/mi_trans_noite/HORONAM684.tex",
+		"/home/editorial/Área de Trabalho/mi_trans_noite/PRETAS.tex",
 		"/home/editorial/Área de Trabalho/nassif_xadrez/A.tex",
 		"/home/editorial/Dropbox/LATEX/PRODUCAO/nassif_xadrez/A.tex",
 		"/home/editorial/Dropbox/LATEX/PRODUCAO/jaco_psicanalise/TESTE.tex",
@@ -407,11 +452,7 @@
 		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO.aux",
 		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO (Cópia em conflito de yuri-Hedra 2016-08-18).aux",
 		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO (Cópia em conflito de yuri-Hedra 2016-08-18).fdb_latexmk",
-		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO (Cópia em conflito de yuri-Hedra 2016-08-18).fls",
-		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO (Cópia em conflito de yuri-Hedra 2016-08-18).log",
-		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO (Cópia em conflito de yuri-Hedra 2016-08-18).toc",
-		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO.fdb_latexmk",
-		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO.fls"
+		"/home/editorial/Dropbox/LATEX/git/mundoindigena/1/LIVRO (Cópia em conflito de yuri-Hedra 2016-08-18).fls"
 	],
 	"find":
 	{
@@ -430,6 +471,22 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"ela fez ao cair",
+			"Lá tem mel",
+			"lá vem mel",
+			"Ele desafiou",
+			"quer se aproximar",
+			"que se aproximar",
+			"footnote",
+			"sequer ele",
+			"nos xapono",
+			"nesses xapono",
+			"produzidos",
+			"comunidade",
+			"comuni",
+			"abra",
+			"vezes",
+			"às vezes",
 			"ilicito",
 			"questionavel",
 			"calvicie",
@@ -541,23 +598,7 @@
 			"Fantastico",
 			"herofsmo",
 			"reforga",
-			"Publico",
-			"capitals",
-			"logico",
-			"insustentavel",
-			"Metalurgico",
-			"Penitenciarios",
-			"imobiliario",
-			"Ve-se",
-			"ocorrerão",
-			"ocorrerao",
-			"visoes",
-			"comegarao",
-			"permanencia",
-			"Aeronautica",
-			"forgasse",
-			"Jorge",
-			"(\\.[a-zA-Z\\d])"
+			"Publico"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -697,14 +738,157 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": true,
+		"whole_word": false,
 		"wrap": false
 	},
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "HORONAMEOTATUOSURGIMENTODOCIPOEDAEMBIRA693.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4001,
+								4001
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1082.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "COMOFOIFEITOESTELIVRO721.tex",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425,
+								425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1842,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										438,
+										455
+									],
+									[
+										1024,
+										1036
+									],
+									[
+										1352,
+										1362
+									],
+									[
+										1722,
+										1737
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1731,
+								1731
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 5,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "AANTAQUEANDAVANASARVORES699.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1502,
+								1508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -773,12 +957,12 @@
 		"selected_items":
 		[
 			[
-				"li",
-				"LIVRO.tex"
+				"",
+				"Find Results"
 			],
 			[
-				"",
-				"~/Área de Trabalho/NASSIF/vieira/INPUTS.tex"
+				"li",
+				"LIVRO.tex"
 			],
 			[
 				"no",
@@ -840,7 +1024,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 249.0,
 	"status_bar_visible": true,
 	"template_settings":
