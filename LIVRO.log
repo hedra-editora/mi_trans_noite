@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.4.10)  7 FEB 2022 17:27
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.4.10)  7 FEB 2022 18:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1308,7 +1308,7 @@ Here is how much of LuaTeX's memory you used:
  1675 words of node memory still in use:
    6 hlist, 1 vlist, 2 rule, 2 disc, 23 glue, 5 kern, 14 glyph, 64 attribute, 19
 7 glue_spec, 33 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
-   avail lists: 1:1,2:1926,3:233,4:126,5:234,6:58,7:3568,8:2,9:390,10:19,11:295
+   avail lists: 1:1,2:1926,3:233,4:126,5:234,6:58,7:3568,8:2,9:390,10:20,11:295
  30155 multiletter control sequences out of 65536+600000
  132 fonts using 29668995 bytes
  51i,12n,96p,1330b,428s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -1322,7 +1322,7 @@ itorial/texmf/tex/fonts/Formular-Italic.otf></home/editorial/texmf/tex/fonts/For
 mular-Bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></
 usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (68 pages, 233304 bytes).
+Output written on LIVRO.pdf (68 pages, 233522 bytes).
 
 PDF statistics: 289 PDF objects out of 1000 (max. 8388607)
  188 compressed objects within 2 object streams
