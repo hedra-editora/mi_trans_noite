@@ -188,6 +188,7 @@ INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/font
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/formular-italic.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/formular-light.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/ebgaramond12-regular.luc
+INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/ebgaramond12-italic.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/ebgaramond-bold.luc
 INPUT ./LIVRO.aux
 INPUT ./LIVRO.aux
@@ -239,10 +240,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
 INPUT ./3-rosto.tex
 INPUT ./3-rosto.tex
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-regular.luc
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-boldit.luc
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-bold.luc
-INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/minionpro-it.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman-bold-italic.luc
 INPUT /Users/suzana/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/fonts/otl/times-new-roman-bold.luc
