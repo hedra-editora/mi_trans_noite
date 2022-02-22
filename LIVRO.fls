@@ -194,9 +194,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bolditalic.luc
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold.luc
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-bold-mi.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-italic.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-light.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/ebgaramond-regular.luc

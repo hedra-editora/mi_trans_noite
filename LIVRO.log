@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  16 FEB 2022 17:05
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  22 FEB 2022 10:34
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.127 seconds
+luaotfload | main : initialization completed in 0.090 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1116,12 +1116,12 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 ))
 luaotfload | cache : Lookup cache loaded from /home/edlab/.texlive2017/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/edlab/.
-texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular.luc)
+texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc)
 \g__fontspec_family_Formular_int=\count323
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-bolditalic.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
-generic/fonts/otl/formular-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-va
-r/luatex-cache/generic/fonts/otl/formular-italic.luc)
+generic/fonts/otl/formular-bold-mi.luc)(load luc: /home/edlab/.texlive2017/texmf
+-var/luatex-cache/generic/fonts/otl/formular-italic.luc)
 luaotfload | aux : font no 32 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : no font with id 32
@@ -1223,8 +1223,7 @@ num;"
 num;+smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 61.
-
-(./LIVRO.aux (./INPUTS.aux))
+ (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
@@ -1752,18 +1751,18 @@ ttribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
    avail lists: 1:1,2:1291,3:233,4:126,5:336,6:2559,7:1068,8:64,9:356,10:20,11:2
 95
  23626 multiletter control sequences out of 65536+600000
- 101 fonts using 26229535 bytes
+ 101 fonts using 26238495 bytes
  57i,12n,83p,1330b,435s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
 ic/ebgaramond/EBGaramond12-Regular.otf></home/edlab/texmf/tex/fonts/EBGaramond-I
 talic.ttf></home/edlab/texmf/tex/fonts/EBGaramond-Regular.ttf></home/edlab/texmf
 /tex/fonts/EBGaramond-Bold.ttf></home/edlab/texmf/tex/fonts/Formular-Italic.otf>
-</home/edlab/texmf/tex/fonts/Formular-Bold.otf></usr/share/texmf/fonts/opentype/
-public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arkandi
-s/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (76 pages, 604463 bytes).
+</home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts/openty
+pe/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/arka
+ndis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (76 pages, 604707 bytes).
 
 PDF statistics: 310 PDF objects out of 1000 (max. 8388607)
  201 compressed objects within 3 object streams
