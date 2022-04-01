@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  24 MAR 2022 22:57
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  31 MAR 2022 16:58
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1139,13 +1139,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--54
  []
 
 ) [4] (./3-rosto.tex
-luaotfload | aux : font no 87 (nil) does not define feature smcp for script latn
- with language dflt
-luaotfload | aux : font no 88 (nil) does not define feature smcp for script latn
- with language dflt
 luaotfload | aux : font no 89 (nil) does not define feature smcp for script latn
  with language dflt
 luaotfload | aux : font no 90 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 91 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 92 (nil) does not define feature smcp for script latn
  with language dflt
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
@@ -1178,78 +1178,74 @@ Package microtype Info: Loading generic protrusion settings for font family
 (./APRESENTACAO.tex [8
 
 
-]
-Package lettrine.sty Info: Targeted height = 19.936pt
-(lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 18.75816pt (E);
-(lettrine.sty)             reported on input line 3.
-) (./FEITO.tex [9] [10
+]) (./FEITO.tex [9] [10
 
-] [11]) (./YANOMAMI.tex [12]
+] [11] [12]) (./YANOMAMI.tex
+[13] [14
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 9.
-)
-Overfull \hbox (7.99593pt too wide) in paragraph at lines 9--39
+) (./TEXTO.tex
+Overfull \hbox (7.99593pt too wide) in paragraph at lines 9--1
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--39
+Underfull \hbox (badness 10000) in paragraph at lines 9--1
 
  []
 
-[13
+[15] [16
 
-] [14
-
-] [15] [16] (./TEXTO.tex
+] [17] [18]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (H);
-(lettrine.sty)             reported on input line 3.
- [17
+(lettrine.sty)             reported on input line 5.
+ [19
 
-] [18] [19] [20
+] [20] [21] [22
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.9018pt (P);
-(lettrine.sty)             reported on input line 73.
- [21] [22] [23] [24
+(lettrine.sty)             reported on input line 75.
+ [23] [24] [25] [26
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (E);
-(lettrine.sty)             reported on input line 152.
-
-[25
+(lettrine.sty)             reported on input line 154.
+ [27
 Missing character: There is no ɨ (U+0268) in font Formular/B:mode=node;script=l
 atn;language=dflt;!
-] [26
+] [28
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [27] [28
+] [29]
+[30
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (Y);
-(lettrine.sty)             reported on input line 221.
- [29
+(lettrine.sty)             reported on input line 223.
+ [31
 Missing character: There is no ɨ (U+0268) in font Formular/B:mode=node;script=l
 atn;language=dflt;!
-] [30] [31] [32
+] [32] [33] [34
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (E);
-(lettrine.sty)             reported on input line 287.
- [33] [34
+(lettrine.sty)             reported on input line 289.
+ [35] [36
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
@@ -1268,60 +1264,30 @@ Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [35
+] [37
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [36
+] [38
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [37] [38
+] [39] [40
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (H);
-(lettrine.sty)             reported on input line 444.
- [39]
-[40] [41] [42]
+(lettrine.sty)             reported on input line 446.
+ [41] [42] [43] [44]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.07416pt (O);
-(lettrine.sty)             reported on input line 577.
- [43
+(lettrine.sty)             reported on input line 580.
+
+[45
 
 Missing character: There is no ɨ (U+0268) in font Formular/B:mode=node;script=l
 atn;language=dflt;!
-] [44
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [45
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
 ] [46
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
-Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
-cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
@@ -1339,22 +1305,51 @@ Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [48]
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+] [48
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+] [49
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
+cript=latn;language=dflt;+tlig;+pnum;+onum;!
+] [50]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (Ɨ);
-(lettrine.sty)             reported on input line 771.
- [49
+(lettrine.sty)             reported on input line 774.
+ [51
 
-] [50] [51] [52] [53] [54
+] [52] [53] [54] [55] [56
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 19.70613pt (A);
-(lettrine.sty)             reported on input line 950.
-
-[55
+(lettrine.sty)             reported on input line 953.
+ [57
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
@@ -1365,7 +1360,7 @@ Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [56
+] [58
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
@@ -1376,7 +1371,8 @@ Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [57] [58] [59
+] [59]
+[60] [61
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
@@ -1387,38 +1383,38 @@ Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
 Missing character: There is no ɨ (U+0268) in font EBGaramond-Italic:mode=node;s
 cript=latn;language=dflt;+tlig;+pnum;+onum;!
-] [60
+] [62
 
 ]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (H);
-(lettrine.sty)             reported on input line 1105.
- [61] [62] [63] [64]
+(lettrine.sty)             reported on input line 1108.
+ [63] [64] [65] [66]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 18.95924pt (Foi);
-(lettrine.sty)             reported on input line 1234.
- [65
+(lettrine.sty)             Lettrine height = 18.95924pt (F);
+(lettrine.sty)             reported on input line 1237.
+ [67
 
-] [66]
+] [68]
 Package lettrine.sty Info: Targeted height = 19.936pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.75816pt (Ɨ);
-(lettrine.sty)             reported on input line 1290.
- [67
+(lettrine.sty)             reported on input line 1293.
+ [69
 
 Missing character: There is no ɨ (U+0268) in font Formular/B:mode=node;script=l
 atn;language=dflt;!
 Missing character: There is no ɨ (U+0268) in font Formular/B:mode=node;script=l
 atn;language=dflt;!
-])
-(./Y-publicidade.tex [68] [69]
+]) (./Y-publicidade.tex
+[70] [71]
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
 
  []
 
-[70] [71]
+[72] [73]
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
@@ -1428,10 +1424,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[72] [73]) [74] (./Z-colofon.tex [75]
+[74] [75]) [76] (./Z-colofon.tex [77]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 36.
-)) [76]
+)) [78]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1462,14 +1458,14 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 13587 strings out of 480992
+ 13595 strings out of 480992
  100000,794899 words of node,token memory allocated
  1580 words of node memory still in use:
    6 hlist, 1 vlist, 2 rule, 22 glue, 3 kern, 6 glyph, 64 attribute, 197 glue_sp
 ec, 33 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
    avail lists: 1:1,2:1926,3:233,4:126,5:336,6:58,7:3565,8:2,9:390,10:20,11:295
- 30509 multiletter control sequences out of 65536+600000
- 119 fonts using 29865123 bytes
+ 30517 multiletter control sequences out of 65536+600000
+ 123 fonts using 31066339 bytes
  51i,12n,102p,1330b,427s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Li
 brary/Fonts/Times New Roman.ttf></usr/local/texlive/2020/texmf-dist/fonts/openty
@@ -1481,10 +1477,10 @@ ibrary/Fonts/Formular-Italic.otf></Users/suzana/Library/Fonts/Formular-Bold.otf>
 ></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pf
 b></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirc
 lew.pfb>
-Output written on LIVRO.pdf (76 pages, 587987 bytes).
+Output written on LIVRO.pdf (78 pages, 589701 bytes).
 
-PDF statistics: 302 PDF objects out of 1000 (max. 8388607)
- 197 compressed objects within 2 object streams
+PDF statistics: 309 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

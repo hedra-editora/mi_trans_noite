@@ -1,19 +1,21 @@
 \thispagestyle {empty}
 \contentsline {chapter}{Apresentação}{9}%
 \contentsline {chapter}{Como foi feito este livro}{11}%
-\contentsline {chapter}{Para ler as palavras yanomami}{13}%
-\contentsline {part}{O surgimento dos pássaros}{15}%
-\contentsline {chapter}{O surgimento da noite}{17}%
-\contentsline {chapter}{Ruwëri}{21}%
-\contentsline {chapter}{Horonamɨ}{25}%
-\contentsline {chapter}{Horonamɨ}{29}%
-\contentsline {chapter}{O surgimento do tabaco}{33}%
-\contentsline {chapter}{Hãxoriwë}{39}%
-\contentsline {chapter}{Horonamɨ e o tatu: O surgimento do cipó e da embira}{43}%
-\contentsline {chapter}{Mororiwë}{49}%
-\contentsline {chapter}{O surgimento da banana}{55}%
-\contentsline {section}{Como os napë descobriram a banana}{57}%
-\contentsline {chapter}{Pore}{61}%
-\contentsline {chapter}{A anta que andava nas árvores}{65}%
-\contentsline {chapter}{Xama a rë ɨmɨnowei}{67}%
+\contentsline {section}{da transcrição à tradução}{11}%
+\contentsline {section}{a publicação}{12}%
+\contentsline {chapter}{Para ler as palavras yanomami}{15}%
+\contentsline {part}{O surgimento da noite}{17}%
+\contentsline {chapter}{O surgimento da noite}{19}%
+\contentsline {chapter}{Ruwëri}{23}%
+\contentsline {chapter}{Horonamɨ}{27}%
+\contentsline {chapter}{Horonamɨ}{31}%
+\contentsline {chapter}{O surgimento do tabaco}{35}%
+\contentsline {chapter}{Hãxoriwë}{41}%
+\contentsline {chapter}{Horonamɨ e o tatu}{45}%
+\contentsline {chapter}{Mororiwë}{51}%
+\contentsline {chapter}{O surgimento da banana}{57}%
+\contentsline {section}{Como os napë descobriram a banana}{59}%
+\contentsline {chapter}{Pore}{63}%
+\contentsline {chapter}{A anta que andava nas árvores}{67}%
+\contentsline {chapter}{Xama a rë ɨmɨnowei}{69}%
 \babel@toc {brazilian}{}
