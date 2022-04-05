@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.4.10)  5 APR 2022 14:44
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2021.4.10)  5 APR 2022 14:59
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1267,12 +1267,12 @@ Package lettrine.sty Info: Targeted height = 20.044pt
 Package lettrine.sty Info: Targeted height = 20.044pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 19.92114pt (F);
-(lettrine.sty)             reported on input line 1237.
+(lettrine.sty)             reported on input line 1239.
  [71] [72]
 Package lettrine.sty Info: Targeted height = 20.044pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 19.85974pt (Ɨ);
-(lettrine.sty)             reported on input line 1293.
+(lettrine.sty)             reported on input line 1295.
  [73
 
 Missing character: There is no ɨ (U+0268) in font Formular/B:mode=node;script=l
@@ -1331,12 +1331,12 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 Here is how much of LuaTeX's memory you used:
  13801 strings out of 481365
  100000,794899 words of node,token memory allocated
- 1580 words of node memory still in use:
-   6 hlist, 1 vlist, 2 rule, 22 glue, 3 kern, 6 glyph, 64 attribute, 197 glue_sp
+ 1585 words of node memory still in use:
+   6 hlist, 1 vlist, 2 rule, 22 glue, 3 kern, 6 glyph, 64 attribute, 198 glue_sp
 ec, 33 attribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
    avail lists: 1:1,2:1926,3:233,4:126,5:234,6:58,7:3566,8:2,9:390,10:19,11:295
  30100 multiletter control sequences out of 65536+600000
- 125 fonts using 29264827 bytes
+ 125 fonts using 29265079 bytes
  51i,12n,96p,1330b,427s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 itorial/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/
@@ -1347,7 +1347,7 @@ lar-Italic.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/share/te
 xmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/
 fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (82 pages, 597737 bytes).
+Output written on LIVRO.pdf (82 pages, 598074 bytes).
 
 PDF statistics: 322 PDF objects out of 1000 (max. 8388607)
  210 compressed objects within 3 object streams
