@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  26 APR 2022 18:49
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  29 APR 2022 18:36
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1529,26 +1529,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--1
 ] [71] [72] [73
 
 ])
-(./Y-publicidade.tex [74] [75]
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
+(./Y-publicidade.tex [74]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-[76] [77]
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[75
+Missing character: There is no ✓ (U+2713) in font LinuxLibertineO:mode=node;sc
+ript=latn;language=DFLT;+tlig;+onum;!
+] [76]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-
- []
-
-[78] [79]) [80] (./Z-colofon.tex [81]
+[77
+Missing character: There is no ✓ (U+2713) in font LinuxLibertineO:mode=node;sc
+ript=latn;language=DFLT;+tlig;+onum;!
+]) [78
+Missing character: There is no ✓ (U+2713) in font LinuxLibertineO:mode=node;sc
+ript=latn;language=DFLT;+tlig;+onum;!
+] [79] (./Z-colofon.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 36.
 ))(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/l
-mmono10-regular.luc) [82]
+mmono10-regular.luc) [80]
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
@@ -1584,10 +1588,10 @@ Here is how much of LuaTeX's memory you used:
  1497 words of node memory still in use:
    6 hlist, 1 vlist, 2 rule, 22 glue, 5 glyph, 33 attribute, 199 glue_spec, 33 a
 ttribute_list, 3 shape, 3 write, 4 pdf_colorstack nodes
-   avail lists: 1:1,2:1299,3:236,4:127,5:240,6:2597,7:1076,8:64,9:356,10:19,11:2
-97
+   avail lists: 1:1,2:1299,3:234,4:127,5:237,6:2594,7:1070,8:64,9:356,10:19,11:3
+00
  23623 multiletter control sequences out of 65536+600000
- 104 fonts using 24747511 bytes
+ 104 fonts using 24747655 bytes
  46i,12n,83p,1330b,435s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/ed
 lab/texmf/tex/fonts/times.ttf></usr/share/texlive/texmf-dist/fonts/opentype/publ
@@ -1598,10 +1602,10 @@ ic.otf></home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></usr/share/texmf/fonts
 /opentype/public/lm/lmmono8-regular.otf></usr/share/texlive/texmf-dist/fonts/typ
 e1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (82 pages, 599482 bytes).
+Output written on LIVRO.pdf (80 pages, 597413 bytes).
 
-PDF statistics: 322 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
+PDF statistics: 315 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
